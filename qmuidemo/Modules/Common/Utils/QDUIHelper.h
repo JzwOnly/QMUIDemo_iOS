@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+#import <QMUIKit/QMUIKit.h>
 @interface QDUIHelper : NSObject
 
 + (void)forceInterfaceOrientationPortrait;
